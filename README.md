@@ -59,7 +59,7 @@ Boxplot analysis of leverage distribution (via `Start Position`) across sentimen
 
 ## 📎 Author
 
-Yuvraj Rathore 
+Sparsh Doyare
 Feel free to reach out for questions or collaboration.
 
 ---
